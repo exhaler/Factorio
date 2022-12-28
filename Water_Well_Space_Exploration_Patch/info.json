@@ -1,0 +1,9 @@
+{
+    "name":"Water_Well_Space_Exploration_Patch",
+    "version": "1.0.0",
+    "title":"Water Well Space Exploration Patch",
+    "author":"Exhaler",
+    "description":"Compatibility patch for Water Well.\nAllows Water Well (by binbinhfr https://mods.factorio.com/mod/WaterWell) to be built in space",
+    "factorio_version":"1.1",
+    "dependencies":["base >= 1.1", "WaterWell >= 1.1"]
+} 
