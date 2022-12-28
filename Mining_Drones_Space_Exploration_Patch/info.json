@@ -1,0 +1,9 @@
+{
+    "name":"Mining_Drones_Space_Exploration_Patch",
+    "version": "1.0.0",
+    "title":"Mining Drones Space Exploration Patch",
+    "author":"Exhaler",
+    "description":"Compatibility patch for Space Exploration.\nAllows Mining Drones (by Klonan https://mods.factorio.com/mod/Mining_Drones) to be built in space",
+    "factorio_version":"1.1",
+    "dependencies":["base >= 1.1", "Mining_Drones >= 1.1"]
+} 
