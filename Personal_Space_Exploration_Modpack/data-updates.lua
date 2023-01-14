@@ -11,3 +11,7 @@ end
 if data.raw["cargo-wagon"]["space-cargo-wagon"] then
    data.raw["cargo-wagon"]["space-cargo-wagon"].inventory_size = 100;
 end
+
+if data.raw["furnace"]["kr-fluid-burner"] then
+   data.raw["furnace"]["kr-fluid-burner"].se_allow_in_space = true
+end
