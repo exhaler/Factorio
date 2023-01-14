@@ -1,0 +1,9 @@
+{
+    "name":"Mining_Drones_Tiberium_SE_Patch",
+    "version": "1.0.0",
+    "title":"Mining Drones (Tiberium) SE Patch",
+    "author":"Exhaler",
+    "description":"Compatibility patch for Mining Drones (Tiberium Compatibility Version).\nAllows Mining Drones (Tiberium Compatibility Version) (by randomflyingtaco https://mods.factorio.com/mod/Mining-Drones-Tiberium) to be built in space",
+    "factorio_version":"1.1",
+    "dependencies":["base >= 1.1", "space-exploration >= 0.6", "Mining-Drones-Tiberium >= 1.1"]
+} 
