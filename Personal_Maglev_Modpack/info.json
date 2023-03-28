@@ -1,0 +1,9 @@
+{
+    "name":"Personal_Maglev_Modpack",
+    "version": "1.0.0",
+    "title":"Personal Maglev Modpack",
+    "author":"Exhaler",
+    "description":"Personal changes for Maglev",
+    "factorio_version":"1.1",
+    "dependencies":["base >= 1.1"]
+} 

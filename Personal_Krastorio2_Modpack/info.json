@@ -1,9 +1,0 @@
-{
-    "name":"Personal_Krastorio2_Modpack",
-    "version": "1.0.0",
-    "title":"Personal Krastorio2 Modpack",
-    "author":"Exhaler",
-    "description":"Personal changes for Krastorio2",
-    "factorio_version":"1.1",
-    "dependencies":["base >= 1.1", "Krastorio2 >= 1.3.8"]
-} 
