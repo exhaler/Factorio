@@ -1,0 +1,9 @@
+{
+    "name":"Personal_248K_Modpack",
+    "version": "1.0.0",
+    "title":"Personal 248K Modpack",
+    "author":"Exhaler",
+    "description":"Personal changes for 248K",
+    "factorio_version":"1.1",
+    "dependencies":["base >= 1.1"]
+} 
